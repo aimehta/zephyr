@@ -1,0 +1,6 @@
+board:
+  name: nano_rp2040
+  vendor: arduino
+  socs:
+  - name: rp2040
+    
